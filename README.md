@@ -1,6 +1,7 @@
 #Optional Chaining for Javascript - EJERCICIO
 En este repositorio encontraras un pequeño ejercicio
 de OPTIONAL CHAINNING con BABEL
+
 ##Instalación
 
 Una vez clonado ese repositorio abra su terminal, se posicionará en la carpeta
@@ -21,4 +22,4 @@ npx babel --plugins @babel/plugin-proposal-optional-chaining script.js -o bundle
 node bundle.js
 ```
 ##Info
-para mayor información click [Aquí](https://medium.com/@felixmagallanesalbertoluis/configurando-react-js-con-webpack-4-y-babel-7-4-2019-ed8ca4c4ee44)
+para mayor información click [Aquí](https://medium.com/@felixmagallanesalbertoluis/optional-chaining-for-javascript-b44c1b136df1)
