@@ -1,11 +1,9 @@
 #Optional Chaining for Javascript - EJERCICIO
-En este repositorio encontraras un pequeño ejercicio
-de OPTIONAL CHAINNING con BABEL
+Pequeño ejemplo usando Optional Chainning of Javascript con BABEL
 
 ##Instalación
 
-Una vez clonado ese repositorio abra su terminal, se posicionará en la carpeta
-y ejecuté la siguiente sintaxis.
+Ejecutar la siguietne sintaxis una vez clonado el repo.
 
 ```bash
 npm install
